@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+#container{
+    background-color: white;
+    display: block;
+    justify-content: center;
+    width: 35%;
+    margin: auto;  
+    border: solid gray;
+}
+img{
+    height: 300px;
+    width: 300;
+}
+.texto{
+    text-align: left;
+    margin: auto;
+}
+.cuerpo{
+    margin-left: 10px;
+}
+.titulo{
+    display: flex;
+    margin-top: 15px;
+}
+.likes{
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+    justify-content: space-between;
+}
+.derecha{
+    justify-content: right;
+    text-align: right;
+    width: 70%;
+}
+.izquierda{
+   margin-top: 3px;
+   justify-content: space-between;
+}
