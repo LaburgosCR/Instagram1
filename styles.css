@@ -22,13 +22,16 @@ img{
     margin-left: 10px;
 }
 .titulo{
+    margin-top: 5px;
+    justify-content: space-between;
     display: flex;
-    margin-top: 15px;
+    margin-right: 10px;
+    padding: 20px;
 }
 .likes{
     display: flex;
     padding-right: 20px;
-    padding-left: 20px;
+    padding-left: 9px;
     justify-content: space-between;
 }
 .derecha{
@@ -40,3 +43,4 @@ img{
    margin-top: 3px;
    justify-content: space-between;
 }
+
